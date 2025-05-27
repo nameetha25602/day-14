@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+   int num;
+   scanf("%d",&num);
+   int v=num/10;
+   int n=num%10;
+   int sum=v+n;
+   printf("%d\n",sum);
+    return 0;
+}
