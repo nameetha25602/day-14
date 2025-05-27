@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+   int s,n,v;
+   int profit;
+   scanf("%d",&s);
+   scanf("%d",&n);
+   scanf("%d",&v);
+   profit=(s*(n-v)-100);
+   printf("%d\n",profit);
+
+    return 0;
+}
