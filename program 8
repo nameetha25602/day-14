@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int a,b;
+    scanf("%d",&a,&b)
+    m=(total/2-page/2-page)
+    if(m< = p/2)
+    {
+       printf("%d",&m);
+    else
+       printf("%d",p/2);
+    }
+    return 0;
+}
