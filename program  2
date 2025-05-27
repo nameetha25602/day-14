@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(){
+    int length,breadth;
+    int a,b;
+    scanf("%d %d",&length,&breadth);
+    a=2 * (length+breadth);
+    b= length*breadth;
+    printf("%d %d\n",a,b);
+
+
+    return 0;
+}
